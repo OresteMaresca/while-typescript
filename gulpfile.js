@@ -1,5 +1,5 @@
 var gulp = require("gulp");
-var rename = require("gulp-rename");
+//var rename = require("gulp-rename");
 var run = require("gulp-run");
 var sourcemaps = require('gulp-sourcemaps');
 var ts = require("gulp-typescript");
